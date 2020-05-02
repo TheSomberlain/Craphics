@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="gluegen-2.3.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/gluegen-2.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java3d-core-1.6.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/vecmath.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
