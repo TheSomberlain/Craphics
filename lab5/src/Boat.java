@@ -101,7 +101,7 @@ public class Boat extends JFrame {
   private TransformGroup getBoatGroup() throws IOException {
     Shape3D shape = getModelShape3D("default", "res/Boat2.obj");
 
-    addAppearance(shape, "res/paper2.jpg");
+    addAppearance(shape, "res/paper.jpg");
     Transform3D transform3D = new Transform3D();
     transform3D.setScale(new Vector3d(0.2, 0.2, 0.2));
     Transform3D rotationY = new Transform3D();

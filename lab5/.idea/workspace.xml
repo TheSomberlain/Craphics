@@ -19,7 +19,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/vecmath.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lab4" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -66,10 +66,10 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="883" y="279" width="524" height="484" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1588425333253" />
-    <state x="615" y="296" width="735" height="513" key="FileChooserDialogImpl" timestamp="1588425342691">
+    <state x="615" y="296" width="735" height="513" key="FileChooserDialogImpl" timestamp="1588513086269">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="615" y="296" width="735" height="513" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1588425342691" />
+    <state x="615" y="296" width="735" height="513" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1588513086269" />
     <state width="1807" height="278" key="GridCell.Tab.0.bottom" timestamp="1588425491782">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>

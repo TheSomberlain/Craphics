@@ -2,7 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be8d73b4-022d-4338-939b-3642ce6fd324" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../lab4/src/lab4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab4/src/lab4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/java3d_core_1_6_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/vecmath.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/java3d-core-1.6.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/sample/Arm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/sample/Axes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/sample/Bender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/sample/Body.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/sample/Eye.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/sample/Head.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/sample/Leg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/sample/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/sample/VecmathHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/sample/shapes/CircleGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/sample/shapes/CubeGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/sample/shapes/FrustumGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/sample/shapes/Generator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/sample/shapes/HalfSphereGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/sample/shapes/TorusGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/vecmath.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gluegen-2.3.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jogl-all.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/gluegen-2.3.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled.iml" beforeDir="false" afterPath="$PROJECT_DIR$/untitled.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab5/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +45,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/jogl-all.jar!/" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Lab4" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
@@ -72,13 +97,33 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="476" y="130" width="1024" height="845" key="#Project_Structure/67.27.1853.1053@67.27.1853.1053" timestamp="1588422134963" />
-    <state x="615" y="296" width="735" height="513" key="FileChooserDialogImpl" timestamp="1588422351140">
+    <state x="662" y="323" width="735" height="513" key="FileChooserDialogImpl" timestamp="1588515066322">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="615" y="296" width="735" height="513" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1588422351140" />
-    <state x="476" y="130" width="1024" height="845" key="SettingsEditor" timestamp="1588422355809">
+    <state x="662" y="323" width="735" height="513" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1588515066322" />
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom" timestamp="1588515044825">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="476" y="130" width="1024" height="845" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1588422355809" />
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1588515044825" />
+    <state width="1807" height="278" key="GridCell.Tab.0.center" timestamp="1588515044824">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1588515044824" />
+    <state width="1807" height="278" key="GridCell.Tab.0.left" timestamp="1588515044824">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1588515044824" />
+    <state width="1807" height="278" key="GridCell.Tab.0.right" timestamp="1588515044825">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1588515044825" />
+    <state x="196" y="185" width="1024" height="845" key="SettingsEditor" timestamp="1588513950411">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="196" y="185" width="1024" height="845" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1588513950411" />
+    <state x="302" y="154" width="1372" height="796" key="new project wizard" timestamp="1588514085433">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="302" y="154" width="1372" height="796" key="new project wizard/67.27.1853.1053@67.27.1853.1053" timestamp="1588514085433" />
   </component>
 </project>
